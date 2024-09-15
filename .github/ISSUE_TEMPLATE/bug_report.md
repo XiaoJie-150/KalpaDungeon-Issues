@@ -21,7 +21,7 @@ assignees: XiaoJie-150
 **截屏图片**
 最好是把报错截屏上传到这
 
-**运行环境(可用[环境获取]()得到地址后放上来):**
+**运行环境(可用[环境获取](http://repo.xiao-jie.top:24009/repository/maven-public/%E5%8A%AB/OperatingEnvironment/1.0/OperatingEnvironment-1.0.jar)得到地址后放上来):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
