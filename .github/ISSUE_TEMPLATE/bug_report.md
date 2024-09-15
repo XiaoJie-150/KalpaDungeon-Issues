@@ -21,10 +21,10 @@ assignees: XiaoJie-150
 **截屏图片**
 最好是把报错截屏上传到这
 
-**运行环境(可用[环境获取](http://repo.xiao-jie.top:24009/repository/maven-public/%E5%8A%AB/OperatingEnvironment/1.0/OperatingEnvironment-1.0.jar)得到地址后放上来):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**运行环境(可用[环境获取](http://repo.xiao-jie.top:24009/repository/maven-public/%E5%8A%AB/OperatingEnvironment/1.0/OperatingEnvironment-1.0.jar)得到地址后放上来,指令是oe get,该插件只做环境内容获取):**
+ - 服务器系统: [e.g. iOS]
+ - 服务器核心版本: paper-1.12.2-1620
+ - 插件版本: KalpaDungeon-1.0.9
 
 **信息补充**
 在此处添加有关该问题的任何其他信息。
