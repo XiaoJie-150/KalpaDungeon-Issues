@@ -1,38 +1,30 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: "[插件名] - 简单说明"
+about: 提供更多的信息,以便我能更精准的找出问题
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: XiaoJie-150
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**详细描述问题**
+在使用什么脚本/语法/功能的时候出现了报错/警告或者有何种反应效果
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**问题复现步骤**
+1. 在dp的启动时的condition下使用了xxx脚本
+2. 输入指令/dp start xxx后后台报错
+3. xxxx
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**他应该如何运行**
+玩家没有指定权限的时候无法进入地牢
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**截屏图片**
+最好是把报错截屏上传到这
 
-**Desktop (please complete the following information):**
+**运行环境(可用[环境获取]()得到地址后放上来):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**信息补充**
+在此处添加有关该问题的任何其他信息。
